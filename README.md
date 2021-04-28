@@ -1,2 +1,2 @@
-### Hi there 👋
-I'am Alex.  
+What’s the object-oriented way to get wealthy? 
+Inheritance.
